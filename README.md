@@ -1,1 +1,1 @@
-my repository helps me to understand 
+my repository helps me to understand better git and github
